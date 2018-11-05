@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;my-first-boot-web&apos;" deleteContents="false" description="Delete resource &apos;my-first-boot-web&apos;" element1="/my-first-boot-web" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536734486326"/>&#x0A;<refactoring comment="Delete resource &apos;bookstore-app-book-jdbc&apos;" deleteContents="false" description="Delete resource &apos;bookstore-app-book-jdbc&apos;" element1="/bookstore-app-book-jdbc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536909870844"/>
+</session>

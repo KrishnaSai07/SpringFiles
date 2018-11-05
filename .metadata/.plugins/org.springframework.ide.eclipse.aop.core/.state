@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-cache"/>
+<aop-project name="spring-data-mongo-demo2"/>
+<aop-project name="FifaBallonDor-Jpa"/>
+<aop-project name="employee-data-app-jdbc"/>
+<aop-project name="tarangini_limited"/>
+<aop-project name="spring-data-mongo-demo-animal"/>
+<aop-project name="guest-app"/>
+<aop-project name="guest-services"/>
+<aop-project name="employee-app-spring-data"/>
+<aop-project name="spring-security-demo-1"/>
+<aop-project name="my-first-boot-web1"/>
+<aop-project name="employee-security-app"/>
+<aop-project name="employee-views"/>
+<aop-project name="spring-jdbc-demo-2"/>
+<aop-project name="FifaBallonDor-mongo"/>
+<aop-project name="spring-data-rest-demo-emp"/>
+<aop-project name="bookstore-app-demo"/>
+<aop-project name="FifaBallonDor-Jdbc"/>
+<aop-project name="bookstore-boot-app-jdbc"/>
+<aop-project name="spring-data-mongodb-employee-1"/>
+<aop-project name="spring-data-mongo-demo"/>
+<aop-project name="spring-jdbc-demo-1"/>
+<aop-project name="FifaBallonDor"/>
+<aop-project name="tarangini_limitedProject"/>
+<aop-project name="address-book-spring-data-app"/>
+<aop-project name="spring-data-cassandra-demo"/>
+<aop-project name="spring-junit-demo"/>
+<aop-project name="bookstore-app-book-jdbc"/>
+<aop-project name="spring-data-rest-demo"/>
+<aop-project name="spring-login-master"/>
+<aop-project name="spring-jdbc-demo-4"/>
+<aop-project name="address-book-app-spring-data-restful"/>
+<aop-project name="spring-security-demo-2"/>
+<aop-project name="ServiceWebApp"/>
+<aop-project name="Taragani-Rest-App"/>
+<aop-project name="address-book-spring-data-restful-app"/>
+</aop-reference-model>

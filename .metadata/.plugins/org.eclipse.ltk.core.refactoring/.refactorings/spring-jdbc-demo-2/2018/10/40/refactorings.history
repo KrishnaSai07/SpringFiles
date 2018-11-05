@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ItemDAO.java&apos; to &apos;spring-data-mongo-demo2/src/main/java/com.verizon.sdmd.dao&apos;&#x0D;&#x0A;- Original project: &apos;spring-jdbc-demo-2&apos;&#x0D;&#x0A;- Destination element: &apos;spring-data-mongo-demo2/src/main/java/com.verizon.sdmd.dao&apos;&#x0D;&#x0A;- Original element: &apos;com.verizon.sjdbc.dao.ItemDAO.java&apos;" description="Copy compilation unit" destination="=spring-data-mongo-demo2/src\/main\/java&lt;com.verizon.sdmd.dao" element1="/src\/main\/java&lt;com.verizon.sjdbc.dao{ItemDAO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1538377415636" units="1" version="1.0"/>
+</session>

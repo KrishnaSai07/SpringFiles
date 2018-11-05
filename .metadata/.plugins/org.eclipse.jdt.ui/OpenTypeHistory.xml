@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=address-book-spring-data-app/src\/main\/java&lt;com.verizon.adb.service{ContactService.java[ContactService" modifiers="513" timestamp="1537437553682"/>
+<typeInfo handle="=employee-app-spring-data/src\/main\/java&lt;com.verizon.ep.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1537534067474"/>
+<typeInfo handle="=spring-jdbc-demo-1/C:\/Users\/verizon\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.0.9.RELEASE\/spring-jdbc-5.0.9.RELEASE.jar&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1536902366377"/>
+<typeInfo handle="=spring-jdbc-demo-1/C:\/Program Files\/Java\/jdk1.8.0_181\/jre\/lib\/rt.jar&lt;java.sql(RowId.class[RowId" modifiers="1537" timestamp="1536637438978"/>
+<typeInfo handle="=spring-jdbc-demo-1/src\/main\/java&lt;com.verizon.sjdbc.dao{ItemDAO.java[ItemDAO" modifiers="513" timestamp="1538111885847"/>
+<typeInfo handle="=spring-jdbc-demo-1/src\/main\/java&lt;com.verizon.sjdbc.service{ItemService.java[ItemService" modifiers="513" timestamp="1538116222464"/>
+<typeInfo handle="=spring-jdbc-demo-1/C:\/Program Files\/Java\/jdk1.8.0_181\/jre\/lib\/rt.jar&lt;java.awt(ItemSelectable.class[ItemSelectable" modifiers="1537" timestamp="1536637438978"/>
+<typeInfo handle="=spring-data-mongo-demo2/src\/main\/java&lt;com.verizon.sdmd.dao{ItemDAO.java[ItemDAO" modifiers="513" timestamp="1538378782560"/>
+<typeInfo handle="=junit_demo1/src\/main\/java&lt;com.verizon.service{MorningService.java[MorningService" modifiers="1" timestamp="1539324392054"/>
+<typeInfo handle="=junit-demo/src\/main\/java&lt;com.verizon.service{GreetingService.java[GreetingService" modifiers="1" timestamp="1539323927668"/>
+<typeInfo handle="=junit-demo/src\/main\/java&lt;com.verizon.service{EligibilityService.java[EligibilityService" modifiers="1" timestamp="1539326248254"/>
+<typeInfo handle="=LoanService/src\/main\/java&lt;com.verizon.service{LoanService.java[LoanService" modifiers="1" timestamp="1539336044325"/>
+<typeInfo handle="=junit-demo/src\/main\/java&lt;com.verizon.service{ScoringService.java[ScoringService" modifiers="1" timestamp="1539339504563"/>
+<typeInfo handle="=tarangini_limited/src\/main\/java&lt;com.verizon.service{CommonService.java[CommonService" modifiers="513" timestamp="1539593369164"/>
+<typeInfo handle="=tarangini_limited/C:\/Program Files\/Java\/jdk1.8.0_181\/jre\/lib\/rt.jar&lt;javax.sql(CommonDataSource.class[CommonDataSource" modifiers="1537" timestamp="1536637438978"/>
+<typeInfo handle="=FifaBallonDor-mongo/src\/main\/java&lt;com.fifaballondor.restapi{NomineesRestApi.java[NomineesRestApi" modifiers="1" timestamp="1539498394669"/>
+<typeInfo handle="=Taragani-Rest-App/src\/main\/java&lt;com.taragani.RestApi{CustomerAPI.java[CustomerAPI" modifiers="1" timestamp="1540458113008"/>
+<typeInfo handle="=Taragani-Rest-App/src\/main\/java&lt;com.taragani.RestApi{PlanAPI.java[PlanAPI" modifiers="1" timestamp="1540460142029"/>
+<typeInfo handle="=tarangini_limitedProject/src\/main\/java&lt;com.taragani.RestApi{PlanAPI.java[PlanAPI" modifiers="1" timestamp="1540460142029"/>
+<typeInfo handle="=tarangini_limitedProject/src\/main\/java&lt;com.taragani.RestApi{CustomerAPI.java[CustomerAPI" modifiers="1" timestamp="1540458113008"/>
+</typeInfoHistroy>
